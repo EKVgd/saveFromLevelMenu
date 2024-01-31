@@ -5,5 +5,11 @@
 	"id": "ekv.save_on_level_page",
 	"name": "Save on level page",
 	"developer": "EKV",
-	"description": "lets you save from the level menu"
+	"description": "lets you save from the level menu",
+    	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.1.4",
+            "importance": "required"
+        }]
 }
