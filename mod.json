@@ -5,7 +5,8 @@
 	"id": "ekv.save_on_level_page",
 	"name": "Save on level page",
 	"developer": "EKV",
-	"description": "lets you save from the level menu",
+	"description": "Lets you save your account from the level menu",
+	"repository": "https://github.com/EKVgd/saveFromLevelMenu",
     	"dependencies": [
         {
             "id": "geode.node-ids",
